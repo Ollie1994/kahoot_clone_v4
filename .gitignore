@@ -14,8 +14,8 @@
 /coverage
 
 # next.js
-/.next/
 /out/
+
 
 # production
 /build
@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Both under added based on chatGpt
+# ─── Turbo (Monorepos, CI optimization - Optional) ───────────
+/turbo            # Turbo cache dir, can skip on server
+.cache/           # If you use Turborepo caching
+
+# ─── VS Code (Optional) ──────────────────────────────────────
+.vscode/          # Only ignore if you're not sharing workspace settings
