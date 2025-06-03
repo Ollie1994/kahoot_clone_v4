@@ -47,3 +47,6 @@ next-env.d.ts
 
 # ─── VS Code (Optional) ──────────────────────────────────────
 .vscode/          # Only ignore if you're not sharing workspace settings
+
+
+
