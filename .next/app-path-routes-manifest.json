@@ -2,6 +2,6 @@
   "/_not-found/page": "/_not-found",
   "/api/quiz/route": "/api/quiz",
   "/api/route": "/api",
-  "/profile/page": "/profile",
-  "/page": "/"
+  "/page": "/",
+  "/profile/page": "/profile"
 }
