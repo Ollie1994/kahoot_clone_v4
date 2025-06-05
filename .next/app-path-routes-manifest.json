@@ -1,7 +1,7 @@
 {
   "/api/quiz/route": "/api/quiz",
-  "/api/route": "/api",
   "/_not-found/page": "/_not-found",
-  "/page": "/",
-  "/profile/page": "/profile"
+  "/api/route": "/api",
+  "/profile/page": "/profile",
+  "/page": "/"
 }
